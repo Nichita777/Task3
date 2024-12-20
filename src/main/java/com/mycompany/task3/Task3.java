@@ -1,3 +1,26 @@
+/*
+
+Task 3: Diagonal Sum of a Matrix
+Write a Java program to calculate the sum of the main diagonal and the secondary diagonal of a
+square matrix. Use user input to create the matrix.
+Example Input:
+Enter size of matrix: 3
+Enter elements row by row:
+1 2 3
+4 5 6
+7 8 9
+
+
+*/
+/*
+
+Nichita Selchin , Student No : sba24331
+
+Repository link : https://github.com/Nichita777/Task3
+
+*/
+
+
 package com.mycompany.task3;
 
 import java.util.Scanner;
